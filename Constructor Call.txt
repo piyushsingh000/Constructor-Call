@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Hero{
+    private:
+    int health;
+    
+    public:
+    int age;
+    
+    Hero(){
+        cout<<"Constructor call ho rha hai: "<<endl;
+    }
+};
+
+int main () {
+    
+    cout<<"hii: "<<endl;
+     Hero Piyush ;
+    cout<<"constructor call ho chuka ";
+    
+}
